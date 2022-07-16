@@ -1,0 +1,8 @@
+C:\Users\Damion\source\repos\VariablesExcercise\VariablesExcercise\bin\Debug\VariablesExcercise.exe.config
+C:\Users\Damion\source\repos\VariablesExcercise\VariablesExcercise\bin\Debug\VariablesExcercise.exe
+C:\Users\Damion\source\repos\VariablesExcercise\VariablesExcercise\bin\Debug\VariablesExcercise.pdb
+C:\Users\Damion\source\repos\VariablesExcercise\VariablesExcercise\obj\Debug\VariablesExcercise.csproj.AssemblyReference.cache
+C:\Users\Damion\source\repos\VariablesExcercise\VariablesExcercise\obj\Debug\VariablesExcercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damion\source\repos\VariablesExcercise\VariablesExcercise\obj\Debug\VariablesExcercise.csproj.CoreCompileInputs.cache
+C:\Users\Damion\source\repos\VariablesExcercise\VariablesExcercise\obj\Debug\VariablesExcercise.exe
+C:\Users\Damion\source\repos\VariablesExcercise\VariablesExcercise\obj\Debug\VariablesExcercise.pdb
